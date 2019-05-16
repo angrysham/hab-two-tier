@@ -1,4 +1,4 @@
-pkg_origin=learn-chef
+pkg_origin=hab1
 pkg_name=haproxy
 pkg_description="The Reliable, High Performance TCP/HTTP Load Balancer"
 pkg_version=1.6.11
